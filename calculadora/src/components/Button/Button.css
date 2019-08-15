@@ -1,0 +1,27 @@
+.Button {
+  width: 150px;
+  height: 50px;
+  background-color: #3f3f3f;
+  font-size: 15px;
+  color: white;
+  border: 1px #464646 solid;
+}
+
+.Button:hover {
+  background-color: #7c7c7c;
+}
+
+.Button--number {
+  font-weight: bold;
+  background-color: #606060;
+}
+
+.Button--operator {
+  background-color: #fd9e2b;
+}
+
+.Button--operator:hover {
+  background-color: #ffcb8c;
+  color: #3f3f3f;
+}
+/*# sourceMappingURL=Button.css.map */
